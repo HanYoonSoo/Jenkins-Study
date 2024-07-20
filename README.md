@@ -1,4 +1,6 @@
 # Jenkins-Study
+![image](https://github.com/user-attachments/assets/01507146-2405-4c04-aaf5-f0a33318739c)
+
 이도원 강사님의 강의를 보고 공부하는 젠킨스 스터디
 
 ### Jenkins 소개
