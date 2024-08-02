@@ -20,3 +20,21 @@ https://hdbstn3055.tistory.com/129
 
 ### Docker 컨테이너로 Ansible 실행하기
 https://hdbstn3055.tistory.com/131
+
+### Ansible 기본 명령어
+https://hdbstn3055.tistory.com/143
+
+### Ansible Playbook 사용
+https://hdbstn3055.tistory.com/144
+
+### Jenkins + Ansible 연동하기
+https://hdbstn3055.tistory.com/146
+
+### Jenkins의 여러 Pipeline 작업
+https://hdbstn3055.tistory.com/147
+
+### Jenkins + SonarQube 사용
+https://hdbstn3055.tistory.com/150
+
+### Jenkins Multi nodes 구성 - Master + Slaves
+https://hdbstn3055.tistory.com/151
